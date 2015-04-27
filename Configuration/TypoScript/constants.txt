@@ -1,0 +1,1 @@
+page.theme_extensionkey = appzap_base
